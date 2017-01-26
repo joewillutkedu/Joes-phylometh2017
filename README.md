@@ -1,2 +1,3 @@
 # Joes-phylometh2017
-files for my phylogeny projects started in Jan. 2017
+
+I am a UTK professor with very little experience with computer code!
